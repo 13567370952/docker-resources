@@ -1,7 +1,7 @@
 # Docker Resources All In One
 A collection of docker online resources.
 
-中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
+中文版本[链接](https://github.com/bingoHuang/docker-resources/blob/master/README_zh.md)
 
 # Menu
 * [Main Resources](#main-resources)
@@ -88,7 +88,7 @@ A collection of docker online resources.
 
 ## Websites
 
-* [Official Documents](https://docs.docker.com/) 
+* [Official Documents](https://docs.docker.com/)
 * [Docker Source Code](https://github.com/docker/docker)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Coreos Official Documents](https://coreos.com/docs/)
@@ -101,7 +101,7 @@ A collection of docker online resources.
 * [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 
 ## Archives
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) 
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [Docker Weekly Archives](http://blog.docker.com/docker-weekly-archives/)
 * [Valuable Docker Links](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
@@ -142,7 +142,7 @@ A collection of docker online resources.
 # Related Projects
 ## OS
 * [Coreos](https://coreos.com/) (Linux for Massive Server Deployments)
-* [Atomic](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers) 
+* [Atomic](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers)
 * [Rancheio](http://rancher.com/) (Simple, elegant tools for managing Docker in production)
 * [Snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
 * [Photon](https://github.com/vmware/photon)
@@ -166,7 +166,7 @@ A collection of docker online resources.
 * [shipyard](https://github.com/shipyard/shipyard)   (Composable Docker Management)
 * [swarm](https://github.com/docker/swarm) (A Docker-native clustering system)
 * [citadel](https://github.com/citadel/citadel) (A toolkit for building a distributed docker cluster)
-* [docker-cluster](https://github.com/tsuru/docker-cluster) (Cluster support for Docker, using the remote API) 
+* [docker-cluster](https://github.com/tsuru/docker-cluster) (Cluster support for Docker, using the remote API)
 * [compose](https://github.com/docker/compose) (Define and run complex applications using Docker)
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
 * [maestro](https://github.com/toscanini/maestro) (Container orchestration for Docker environments)
@@ -196,7 +196,7 @@ A collection of docker online resources.
 * [dawn](https://github.com/dawn/dawn) (Docker-based PaaS in Ruby)
 * [octohost](https://github.com/octohost/octohost)(Simple web focused Dockerfile based PaaS server)
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
-* [cloudfoundry](https://github.com/cloudfoundry) 
+* [cloudfoundry](https://github.com/cloudfoundry)
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
 
@@ -441,7 +441,7 @@ A collection of docker online resources.
 
 
 ### Resource Management
-* [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) 
+* [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/)
 
 ### About Networking
 * [Advanced networking](https://docs.docker.com/articles/networking/)
@@ -469,7 +469,7 @@ A collection of docker online resources.
 
 
 ### API
-* [Docker from a distance - the remote API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/) 
+* [Docker from a distance - the remote API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/)
 * [KVM and Docker LXC Benchmarking with OpenStack](http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html)
 
 ### Performance
@@ -555,7 +555,7 @@ A collection of docker online resources.
 * [Running a Small Docker Swarm Cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
 
 ### Mesosphere
-* [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
+* [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/)
 * [Managing Docker Clusters Using Mesos and Marathon](http://beingasysadmin.wordpress.com/2014/06/27/managing-docker-clusters-using-mesos-and-marathon/)
 * [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
@@ -649,7 +649,7 @@ A collection of docker online resources.
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
-* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/) 
+* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/)
 * [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
 * [Developing With Docker At 500px, Part One](http://developers.500px.com/2015/09/10/developing-with-docker-at-500px-pt1.html)
 

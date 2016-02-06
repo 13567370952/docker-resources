@@ -1,7 +1,7 @@
 # Docker Resources All In One
 docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
-英文版本[链接](https://github.com/hangyan/docker-resources)
+英文版本[链接](https://github.com/bingoHuang/docker-resources)
 
 # 目录
 * [资源汇集](#资源汇集)
@@ -97,14 +97,14 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 ## 网站
 ### 英文
-* [官方文档](https://docs.docker.com/) 
+* [官方文档](https://docs.docker.com/)
 * [Docker项目地址](https://github.com/docker/docker)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Coreos官方文档](https://coreos.com/docs/)
 
 ### 中文
-* [Dockerpool](http://dockerpool.com/) 
-* [Docker中文](http://www.docker.org.cn/) 
+* [Dockerpool](http://dockerpool.com/)
+* [Docker中文](http://www.docker.org.cn/)
 * [Dockerone](http://dockerone.com/)
 * [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
 * [CSDN Docker 社区](http://docker.csdn.net/)
@@ -400,7 +400,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [How to Use Docker on Windows](http://blog.tutum.co/2014/11/05/how-to-use-docker-on-windows/)
 * [Run ARM binaries in your Docker Container using Boot2Docker…](http://neophob.com/2014/10/run-arm-binaries-in-your-docker-container-using-boot2docker/)
 * [Docker on OS X with VMWare Fusion](http://ewen.mcneill.gen.nz/blog/entry/2014-09-20-docker-on-osx-with-vmware-fusion/)
-* [Docker 笔记](http://opskumu.github.io/docker.html) 
+* [Docker 笔记](http://opskumu.github.io/docker.html)
 * [关于Docker你应该知道的10件事](http://www.lupaworld.com/portal.php?mod=view&aid=250966)
 * [Docker的大坑小洼](http://blog.daocloud.io/docker_troubleshootings/) / [再谈《Docker的大坑小洼》](http://dockerone.com/question/92)
 
@@ -492,7 +492,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 
 ### API
-* [DOCKER FROM A DISTANCE - THE REMOTE API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/) 
+* [DOCKER FROM A DISTANCE - THE REMOTE API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/)
 * [KVM and Docker LXC Benchmarking with OpenStack](http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html)
 
 ### 性能
@@ -576,7 +576,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 
 ### Mesosphere
-* [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
+* [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/)
 * [Managing Docker Clusters Using Mesos and Marathon](http://beingasysadmin.wordpress.com/2014/06/27/managing-docker-clusters-using-mesos-and-marathon/)
 * [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
@@ -673,7 +673,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
-* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/) 
+* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/)
 * [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
 * [Developing With Docker At 500px, Part One](http://developers.500px.com/2015/09/10/developing-with-docker-at-500px-pt1.html)
 * [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
